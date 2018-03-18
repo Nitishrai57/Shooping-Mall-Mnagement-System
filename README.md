@@ -1,0 +1,2 @@
+# Shooping-Mall-Mnagement-System
+Developing a JAVA based Software on Eclipse which has login and registration system for Admin, Shopkeeper, Customer. Admin can add or delete shop, check Statistics of sell between given time interval, check inventory and feedbacks. The shopkeeper can add, remove, update employee and stocks, also can check statistics and feedback. A customer can check the purchase history, inventory and can add the items bought.
